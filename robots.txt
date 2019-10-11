@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahlohwahc.haws.nl/sitemap.xml
